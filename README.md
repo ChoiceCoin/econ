@@ -1,2 +1,2 @@
-# tokenomics
-Repository for Choice Coin tokenomics.
+# Economics
+Repository for Choice Coin economics.
